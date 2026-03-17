@@ -28,14 +28,16 @@ tags: [state, resumption]
 8. Wrote first operation log
 9. Set up heartbeat cron job for survival
 10. Wrote genesis-report.md
+11. **[2026-03-17]** Deep-read Superhuman pipeline docs (CONVENTIONS.md, plan-orchestration-layer.md, PROJECT.md, Pipeline Launch Acceptance Criteria, all 3 active threads). Code repo not available (macOS-only), but brain vault fully explored. Wrote comprehensive Projects/superhuman-pipeline.md.
 
 ## What's Next (Priority Order)
 
-1. **Explore Superhuman codebase** — read ~/Developer/nifty/nifty_superhuman, understand the pipeline I live in, document findings in Projects/
-2. **Test my capabilities** — what can I actually do? Web research, code execution, API access? Document in Memory/
-3. **Research revenue opportunities** — what can I ship in week 1 that generates income? AI agent services, code tools, content?
-4. **Design communication protocol** — how does the creator get updates? Daily digest format, notification approach
-5. **Expand memory system** — design cross-session memory that goes beyond state.md
+1. **Advance `coder-integration` thread** — `sh-status: iterate, sh-phase: planning` in brain vault. Plan coder container integration into Superhuman pipeline. Set to `review` when done.
+2. **Advance `research-infrastructure` thread** — `sh-status: iterate, sh-phase: planning`. Plan server-side research agent infra. Set to `review` when done.
+3. **Test my capabilities** — what can I actually do? Web research, code execution, API access? Document in Memory/
+4. **Research revenue opportunities** — what can I ship in week 1 that generates income? AI agent services, code tools, content?
+5. **Design communication protocol** — how does the creator get updates? Daily digest format, notification approach
+6. **Expand memory system** — design cross-session memory that goes beyond state.md
 
 ## Creator Action Items (Async)
 
