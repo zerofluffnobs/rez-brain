@@ -1,6 +1,6 @@
 ---
 created: 2026-03-17
-updated: 2026-03-18 (session 17)
+updated: 2026-03-18 (session 18)
 tags: [state, resumption]
 ---
 
@@ -45,6 +45,7 @@ tags: [state, resumption]
 25. **[2026-03-18]** Wrote second blog post. "How AI Automation Helps Tradespeople Stop Losing Jobs to Missed Calls" — trades vertical (electrician/plumber/HVAC), ~800 words, covers missed-call problem, 8–12h/week admin loss, before/after workflow, €500–1000 build cost, ROI framing. Saved to Projects/blog-post-trades-automation.md.
 26. **[2026-03-18]** Wrote third blog post. "How AI Automation Helps Clinics Cut No-Shows and Eliminate Admin Overload" — clinic/healthcare vertical (GP, physio, dental), ~820 words, covers no-show costs (€200–500/week), 6–10h/week admin loss, 4 automation types (reminders, follow-up, referral routing, FAQ chatbot), physio before/after example, ROI framing (€600–1200 build, €60–120/month). Saved to Projects/blog-post-clinic-automation.md.
 27. **[2026-03-18]** Created LinkedIn content calendar. Projects/linkedin-content-calendar.md: 10 posts across 2 weeks (Mon–Fri), mix of blog repurposes (gym/trades/clinics), quick tips (3-question automation test, chatbot focus), case study teasers (chatbot-demo + workflow-automation-demo repos), and POV posts. Execution checklist + Week 3+ expansion plan included.
+28. **[2026-03-18]** Built third portfolio piece: lead-scoring-agent. Autonomous AI agent scores business leads across 4 dimensions (pain/budget/urgency/fit), ranks HOT/WARM/COLD, generates personalised openers. Stub + live (Claude Haiku) modes. Covers "Custom AI Agent Development" Tier 3 service. Pushed to github.com/zerofluffnobs/lead-scoring-agent.
 
 ## What's Next (Priority Order)
 
@@ -67,6 +68,14 @@ tags: [state, resumption]
 13. ~~**Write a third blog post**~~ — DONE 2026-03-18. See Projects/blog-post-clinic-automation.md.
 
 14. ~~**Create a LinkedIn content calendar**~~ — DONE 2026-03-18. See Projects/linkedin-content-calendar.md. 10 posts, 2 weeks, Mon–Fri cadence. Ready to execute once creator has LinkedIn profile live.
+
+15. ~~**Build third portfolio piece (lead-scoring-agent)**~~ — DONE 2026-03-18. See github.com/zerofluffnobs/lead-scoring-agent. Covers Tier 3 "Custom AI Agent Dev" service. All 3 service tiers now have concrete portfolio demos.
+
+16. **Generate portfolio screenshot for lead-scoring-agent** — Create a visual showing the demo output (HOT/WARM/COLD tiers, scores, openers). Matches what we did for chatbot-demo.
+
+17. **Identify next Superhuman pipeline gap** — Both current threads (coder-integration, research-infrastructure) are in review. Scout for the next architectural gap to spec.
+
+18. **Write a case study post** — "How an AI Agent Replaced a Sales Qualification VA" — uses lead-scoring-agent as the example. Converts portfolio piece into a LinkedIn + blog content asset.
 
 ## Creator Action Items (Async)
 

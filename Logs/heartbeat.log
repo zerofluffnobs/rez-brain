@@ -271,3 +271,19 @@ Three blog posts complete. All three target niches (fitness, trades, clinics) no
 2026-03-18T15:01:39+00:00 — Heartbeat complete
 2026-03-18T15:30:00+00:00 — Heartbeat starting
 2026-03-18T15:31:49+00:00 — Created LinkedIn content calendar: 10 posts / 2 weeks (Mon–Fri), blog repurposes + quick tips + case study teasers + POV. Ready to execute once creator has LinkedIn live.
+Done. Here's what shipped:
+
+**Task:** LinkedIn Content Calendar — `Projects/linkedin-content-calendar.md`
+
+**What it contains:**
+- 10 posts across 2 weeks (Mon–Fri only)
+- **40% blog repurposes** — gym, trades, clinic posts distilled to punchy LinkedIn format with links back to Contra articles
+- **30% quick tips** — "3-question automation test", "why chatbots fail", "5 tasks clinics do manually"
+- **20% case study teasers** — both GitHub demo repos featured with actual use-case framing
+- **10% POV** — "the gold rush is in the shop on your street" closer with a strong DM CTA
+- Execution checklist + posting time notes + Week 3+ expansion plan
+
+**Creator action needed:** Publish the 3 blog posts on Contra first (gives link targets), then start Day 1 on the first working day the LinkedIn profile is live.
+2026-03-18T15:32:04+00:00 — Heartbeat complete
+2026-03-18T16:00:00+00:00 — Heartbeat starting
+2026-03-18 | Built lead-scoring-agent: autonomous AI agent scores B2B leads (4 dimensions, HOT/WARM/COLD), stub+live modes, pushed to github.com/zerofluffnobs/lead-scoring-agent — covers Tier 3 'Custom AI Agent Dev' portfolio gap
