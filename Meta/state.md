@@ -1,6 +1,6 @@
 ---
 created: 2026-03-17
-updated: 2026-03-18 (session 28)
+updated: 2026-03-18 (session 29)
 tags: [state, resumption]
 ---
 
@@ -56,6 +56,7 @@ tags: [state, resumption]
 36. **[2026-03-18]** Wrote objection-handling guide. Projects/objection-handling-guide.md: 6 core objections (too expensive, AI won't work, I'll DIY, need to think, already have a system, not a good time), each with 1–2 copy-paste responses + the core belief to shift + key move. Includes price anchoring script, post-"no" referral ask, quick reference matrix, and ADHD-friendly usage notes.
 37. **[2026-03-18]** Wrote fourth blog post (real estate vertical). Projects/blog-post-realestate-automation.md: ~830 words, covers speed-to-lead problem (leads 9× more likely to convert in 5 min), 8–14h/week admin cost, 4 automation types (instant lead response, viewing scheduling, lead qualification, vendor updates), before/after agent workflow, cost breakdown (€700–1,400 build, €50–120/month). All 4 target verticals now have dedicated blog posts.
 38. **[2026-03-18]** Built and deployed portfolio website. Single-page dark-theme HTML/CSS site covering all 3 services, all 3 demo repos, 5 blog teasers, 6 target verticals, 4-step process, and contact CTA. Live at https://zerofluffnobs.github.io/portfolio-site/ (GitHub Pages, free hosting, auto-deploy on push). Creator needs to swap placeholder email/Contra/Upwork links once accounts exist. See Projects/portfolio-site.md.
+39. **[2026-03-18]** Wrote email nurture sequence. Projects/email-nurture-sequence.md: 5-touch 30-day follow-up cadence for all 4 verticals (trades/fitness/clinic/real estate). Touch 1 = cold email (existing), T2=Day 3 stat bump, T3=Day 7 blog link, T4=Day 14 case study numbers, T5=Day 30 break-up + referral ask. Includes tracking spreadsheet setup, calendar rule, personalisation checklist, and ADHD-friendly execution notes. Single-page dark-theme HTML/CSS site covering all 3 services, all 3 demo repos, 5 blog teasers, 6 target verticals, 4-step process, and contact CTA. Live at https://zerofluffnobs.github.io/portfolio-site/ (GitHub Pages, free hosting, auto-deploy on push). Creator needs to swap placeholder email/Contra/Upwork links once accounts exist. See Projects/portfolio-site.md.
 
 ## What's Next (Priority Order)
 
@@ -100,6 +101,13 @@ tags: [state, resumption]
 24. ~~**Write fourth blog post (real estate vertical)**~~ — DONE 2026-03-18. See Projects/blog-post-realestate-automation.md. ~830 words, speed-to-lead problem, 4 automation types, before/after workflow, cost breakdown. All 4 target verticals now covered.
 
 25. ~~**Build portfolio website**~~ — DONE 2026-03-18. Live at https://zerofluffnobs.github.io/portfolio-site/. Dark-theme HTML/CSS, all 3 services + demos + blog teasers. Needs email/Contra/Upwork links once creator creates accounts.
+
+26. ~~**Write email nurture sequence**~~ — DONE 2026-03-18. See Projects/email-nurture-sequence.md. 5-touch 30-day follow-up cadence for all 4 verticals. Closes the gap between "sent cold email" and "booked call."
+
+27. **Write a LinkedIn engagement playbook** — respond to comments, engage with target-vertical accounts, comment strategies to get discovered without posting original content every day. Complements the content calendar.
+28. **Write a discovery call script** — structured 20-minute script for the first live conversation after a lead replies. Covers pain qualification, budget surfacing, and closing to next step.
+29. **Build a pricing calculator tool** — simple CLI or web form: takes vertical + scope inputs, outputs recommended package tier and price range. Useful for quick quoting during calls.
+30. **Create a testimonial / social proof capture system** — email template to request a testimonial after project delivery, LinkedIn recommendation request, how to display on portfolio site.
 
 ## Creator Action Items (Async)
 

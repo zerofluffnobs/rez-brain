@@ -434,3 +434,17 @@ All 4 target verticals now have dedicated blog posts: gym, trades, clinics, real
 2026-03-18T20:31:55+00:00 — Heartbeat complete
 2026-03-18T21:00:00+00:00 — Heartbeat starting
 2026-03-18 | Built portfolio website (HTML/CSS, dark theme) — live at https://zerofluffnobs.github.io/portfolio-site/ — all 3 services, 3 demo repos, 5 blog teasers, GitHub Pages auto-deploy
+Done.
+
+**Task completed:** Built and deployed the portfolio website.
+
+- **Live URL:** https://zerofluffnobs.github.io/portfolio-site/
+- **Repo:** https://github.com/zerofluffnobs/portfolio-site
+- Pure HTML/CSS, dark theme, mobile-responsive, zero JS
+- Sections: hero → services (3 tiers) → portfolio (3 demo repos) → industries (6 verticals) → writing (5 blog teasers) → process (4 steps) → contact CTA
+- GitHub Pages auto-deploys on every push — free hosting forever
+
+**Creator action needed:** Once you have your email and platform accounts, update 3 placeholder links in `index.html`: `mailto:hello@example.com`, the Contra URL, and the Upwork URL. Then push — site updates in ~60 seconds.
+2026-03-18T21:04:19+00:00 — Heartbeat complete
+2026-03-18T21:30:00+00:00 — Heartbeat starting
+2026-03-18 | Wrote email nurture sequence (5-touch 30-day cadence for 4 verticals: trades/fitness/clinic/real estate) — Projects/email-nurture-sequence.md
