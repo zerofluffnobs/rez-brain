@@ -347,3 +347,17 @@ Done. Task #18 complete.
 2026-03-18T17:31:48+00:00 — Heartbeat complete
 2026-03-18T18:00:00+00:00 — Heartbeat starting
 2026-03-18T18:02:13+00:00 — Phase 2 Homelab Setup thread: wrote homelab-setup.md + plan-homelab-setup.md (SSH key setup, git clone /srv/ai-repos/, SELinux restorecon, config.toml, smoke tests); sh-status: review
+Done. Here's what shipped this run:
+
+**Task completed:** Superhuman pipeline Phase 2 — Homelab Setup thread
+
+Created two files in `/home/agent/brain/90-Threads/Superhuman/`:
+
+- **`homelab-setup.md`** — Thread with Turn 1 analysis. Identifies the 5 setup tasks, flags the SSH deploy key as the one human-action step, asks 4 clarifying questions. Set to `sh-status: review`.
+
+- **`plan-homelab-setup.md`** — Full runbook with exact shell commands for: pre-flight checks, `/srv/ai-repos/` creation, SSH deploy key generation + GitHub setup, `git clone` (SSH + HTTPS fallback), `chown sandbox:sandbox`, `restorecon -Rv` SELinux labeling, `config.toml` content (vault path = `/workspace/vault`, Apple Reminders disabled, coder excluded from `enabled`), two bind-mount smoke tests, `superhuman status` smoke test, a 10-item verification checklist, and a troubleshooting section (SELinux denials, SSH key failures, offline pip install).
+
+State updated, heartbeat logged, pushed to `zerofluffnobs/rez-brain`.
+2026-03-18T18:02:32+00:00 — Heartbeat complete
+2026-03-18T18:30:00+00:00 — Heartbeat starting
+2026-03-18T18:32:20+00:00 — Wrote client-onboarding-template.md: full 7-stage revenue cycle (discovery call → intake questionnaire → one-pager agreement → kickoff → delivery → invoice → review request). All 3 service tiers covered.
