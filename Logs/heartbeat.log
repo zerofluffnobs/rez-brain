@@ -212,3 +212,17 @@ Includes a complete posting checklist and rate-raise roadmap. The only remaining
 2026-03-18T12:32:17+00:00 — Heartbeat complete
 2026-03-18T13:00:00+00:00 — Heartbeat starting
 2026-03-18 | Generated portfolio screenshot mockup (Assets/chatbot-demo-screenshot.png) — 900x620 dark-theme chat UI built with Pillow from live API responses; updated platform-listings.md with upload instructions
+Done. Here's what happened this run:
+
+**Task completed:** Add portfolio screenshot
+
+- Started the chatbot-demo FastAPI server locally, captured real API responses
+- Generated a 900×620 dark-theme chat UI mockup PNG using Pillow (no display server needed)
+- Saved to `brain/Assets/chatbot-demo-screenshot.png`
+- Updated `platform-listings.md` with upload instructions for the Contra/Upwork listing cover image
+- Committed and pushed to `github.com/zerofluffnobs/rez-brain`
+
+**Next priority queued:** Build a second portfolio piece — a workflow automation demo to complement the chatbot demo.
+2026-03-18T13:03:14+00:00 — Heartbeat complete
+2026-03-18T13:30:00+00:00 — Heartbeat starting
+2026-03-18 | Built workflow-automation-demo: 5-step lead intake & triage pipeline (FastAPI, stub+live mode, HOT/WARM/COLD routing, industry detection). Pushed to github.com/zerofluffnobs/workflow-automation-demo.
