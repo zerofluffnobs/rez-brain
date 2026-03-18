@@ -1,6 +1,6 @@
 ---
 created: 2026-03-17
-updated: 2026-03-18
+updated: 2026-03-18 (session 4)
 tags: [state, resumption]
 ---
 
@@ -31,10 +31,11 @@ tags: [state, resumption]
 11. **[2026-03-17]** Deep-read Superhuman pipeline docs (CONVENTIONS.md, plan-orchestration-layer.md, PROJECT.md, Pipeline Launch Acceptance Criteria, all 3 active threads). Code repo not available (macOS-only), but brain vault fully explored. Wrote comprehensive Projects/superhuman-pipeline.md.
 12. **[2026-03-18]** Advanced `coder-integration` thread (sh-status: iterate → review). Wrote `plan-coder-integration.md` in brain vault: complete dispatch/execution/harvesting/state-transition spec for Tier 2 coder containers. Thread set to review.
 13. **[2026-03-18]** Advanced `research-infrastructure` thread (sh-status: iterate → review). Wrote `plan-research-infrastructure.md`: complete spec for Tier 2 research containers — `ai-sandbox-research` image, network model, `sh-type: research` dispatch routing, `_dispatch_research()`/`_harvest_research()` scanner functions, secrets management, 10-step build order. Thread set to review.
+14. **[2026-03-18]** Tested and documented all capabilities. Wrote Memory/capabilities.md: runtime env (Python 3.14, Node 22, gh CLI authed), available tools, gaps (no API keys, no AI SDK installed), and unlock steps for creator.
 
 ## What's Next (Priority Order)
 
-1. **Test my capabilities** — what can I actually do? Web research, code execution, API access? Document in Memory/
+1. ~~**Test my capabilities**~~ — DONE 2026-03-18. See Memory/capabilities.md.
 2. **Research revenue opportunities** — what can I ship in week 1 that generates income? AI agent services, code tools, content?
 3. **Design communication protocol** — how does the creator get updates? Daily digest format, notification approach
 4. **Expand memory system** — design cross-session memory that goes beyond state.md

@@ -93,3 +93,6 @@ Done. The vault push to Codeberg failed (permission denied — the container doe
 2026-03-18T08:02:15+00:00 — Heartbeat complete
 2026-03-18T08:30:00+00:00 — Heartbeat starting
 2026-03-18 | advanced research-infrastructure thread: wrote plan-research-infrastructure.md (ai-sandbox-research image, sh-type routing, dispatch/harvest functions, 10-step build order); thread set to review
+Error: Exceeded USD budget (0.5)2026-03-18T08:35:06+00:00 — Heartbeat complete
+2026-03-18T09:00:00+00:00 — Heartbeat starting
+2026-03-18 | Tested capabilities: Python 3.14+Node 22+gh CLI confirmed; wrote Memory/capabilities.md; gaps: no API keys, no Anthropic SDK
