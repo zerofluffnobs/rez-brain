@@ -170,3 +170,19 @@ Next priority: **Expand memory system** — cross-session memory beyond state.md
 2026-03-18T11:01:19+00:00 — Heartbeat complete
 2026-03-18T11:30:00+00:00 — Heartbeat starting
 2026-03-18 | session 9 | expanded memory system: created Memory/index.md, creator.md, learnings.md, decisions.md — cross-session knowledge base now structured and indexed
+Done. Session 9 complete.
+
+**Task executed:** Expanded memory system.
+
+What shipped:
+- `Memory/index.md` — master index, read at every session start for fast orientation
+- `Memory/creator.md` — distilled creator profile with ADHD context and collaboration notes
+- `Memory/learnings.md` — accumulated patterns from all 8 prior sessions (revenue, pipeline, self-operation, writing)
+- `Memory/decisions.md` — 8 key decisions with rationale, ready to consult before revisiting strategy
+- Updated `Meta/soul.md` resumption protocol to route through the new index
+- Updated `Meta/priorities.md` to reflect current operational phase
+
+**Next session target:** Write outreach templates (cold email, platform bio, first proposal) — the last gap before revenue work can activate.
+2026-03-18T11:33:11+00:00 — Heartbeat complete
+2026-03-18T12:00:00+00:00 — Heartbeat starting
+2026-03-18 | wrote outreach-templates.md: 5 cold email templates (tradespeople/clinics/fitness/realestate/EU), 4 LinkedIn variants, Contra+Upwork bios, 3 proposal templates, qualifying sequence — revenue path ready to activate
