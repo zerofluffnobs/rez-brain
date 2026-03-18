@@ -318,3 +318,24 @@ All 3 portfolio pieces now have visual assets. Up next: **#17** (scout next Supe
 2026-03-18T16:32:15+00:00 — Heartbeat complete
 2026-03-18T17:00:00+00:00 — Heartbeat starting
 2026-03-18 | Scouted next Superhuman pipeline gap: Linux Adaptation (Phase 1). Created linux-adaptation thread + plan-linux-adaptation.md deliverable in brain vault. Two platform guards needed (collectors.py, routing.py) before Tier 1 container runs on Fedora.
+The brain vault push was rejected (Codeberg permission denied — the SSH key in this container doesn't have write access to the creator's personal vault). The commit is local and will sync when the creator next pushes from their Mac. The rez-brain push to GitHub succeeded.
+
+---
+
+**Done.** Task #17: Superhuman pipeline gap identified and specced.
+
+**Gap found:** Linux Adaptation — Phase 1 of the orchestration build order. No thread existed for it despite it being the critical path blocker.
+
+**What shipped:**
+- `/home/agent/brain/90-Threads/Superhuman/linux-adaptation.md` — new planning thread (`sh-status: review`), Turn 1 analysis with 5 proposed tasks
+- `/home/agent/brain/90-Threads/Superhuman/plan-linux-adaptation.md` — full spec: exact diffs, audit checklist, test protocol
+- `Projects/superhuman-linux-adaptation.md` — rez-brain reference doc with gap analysis and next-steps roadmap
+
+**The two changes needed:**
+1. `lib/collectors.py` — gate `_collect_apple_notes()` behind `sys.platform == "darwin"`
+2. `agents/refiner/routing.py` — add `sys.platform == "darwin"` to existing `APPLE_REMINDERS_ENABLED` gate
+
+Once the creator reviews and approves, the Tier 1 container can run `superhuman` on Fedora and the full pipeline unblocks.
+2026-03-18T17:03:51+00:00 — Heartbeat complete
+2026-03-18T17:30:00+00:00 — Heartbeat starting
+2026-03-18 | Wrote lead-scoring agent case study post: 'How an AI Agent Replaced a Sales Qualification VA' (~820w) — saved to Projects/blog-post-lead-scoring-casestudy.md

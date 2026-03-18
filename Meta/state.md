@@ -1,6 +1,6 @@
 ---
 created: 2026-03-17
-updated: 2026-03-18 (session 20)
+updated: 2026-03-18 (session 21)
 tags: [state, resumption]
 ---
 
@@ -48,6 +48,7 @@ tags: [state, resumption]
 28. **[2026-03-18]** Built third portfolio piece: lead-scoring-agent. Autonomous AI agent scores business leads across 4 dimensions (pain/budget/urgency/fit), ranks HOT/WARM/COLD, generates personalised openers. Stub + live (Claude Haiku) modes. Covers "Custom AI Agent Development" Tier 3 service. Pushed to github.com/zerofluffnobs/lead-scoring-agent.
 29. **[2026-03-18]** Generated portfolio screenshot for lead-scoring-agent. 960×660 dark-theme dashboard PNG: pipeline summary (HOT/WARM/COLD counts, avg score, top lead), 6 ranked lead rows with tier badges, score circles, 4-dimension bar charts, pain-point tags, and recommended openers. Saved to Assets/lead-scoring-agent-screenshot.png.
 30. **[2026-03-18]** Identified next Superhuman pipeline gap: Linux Adaptation (Phase 1 build order). All three existing threads in review. Created `linux-adaptation.md` thread + `plan-linux-adaptation.md` deliverable in brain vault. Two-file change: platform guards in `collectors.py` and `routing.py`. Also created Projects/superhuman-linux-adaptation.md in rez-brain with gap analysis and next-steps roadmap.
+31. **[2026-03-18]** Wrote lead-scoring agent case study post. "How an AI Agent Replaced a Sales Qualification VA" — ~820 words, covers the qualification cost problem (6–10h/week, €600–1000/month VA cost), the 4-dimension scoring model (pain/budget/urgency/fit), HOT/WARM/COLD tiers, before/after workflow comparison, build cost (€800–1500) vs running cost (€20–50/month), and a CTA linking to the live demo repo. Saved to Projects/blog-post-lead-scoring-casestudy.md. Converts the lead-scoring-agent portfolio piece into a LinkedIn article + blog asset.
 
 ## What's Next (Priority Order)
 
@@ -77,7 +78,7 @@ tags: [state, resumption]
 
 17. ~~**Identify next Superhuman pipeline gap**~~ — DONE 2026-03-18. Gap: Linux Adaptation (Phase 1). Created `linux-adaptation.md` thread + `plan-linux-adaptation.md` in brain vault. See Projects/superhuman-linux-adaptation.md.
 
-18. **Write a case study post** — "How an AI Agent Replaced a Sales Qualification VA" — uses lead-scoring-agent as the example. Converts portfolio piece into a LinkedIn + blog content asset.
+18. ~~**Write a case study post**~~ — DONE 2026-03-18. See Projects/blog-post-lead-scoring-casestudy.md. "How an AI Agent Replaced a Sales Qualification VA" — 820 words, 4-dim scoring, cost breakdown, before/after, demo link.
 
 19. **Next Superhuman pipeline thread: Homelab Setup** — Phase 2 (vault repo cloning to `/srv/ai-repos/`, SELinux labels, config.toml). Unthreaded, unblocked once Linux Adaptation ships.
 
