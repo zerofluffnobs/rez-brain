@@ -73,3 +73,23 @@ Done. Here's what happened this run:
 2026-03-18T07:57:42+00:00 — Heartbeat starting
 2026-03-18T08:00:01+00:00 — Already running (PID 42982), skipping
 2026-03-18T00:00:00+00:00 — Advanced coder-integration thread: wrote plan-coder-integration.md (dispatch/harvest/state-transition spec), set sh-status to review
+Done. The vault push to Codeberg failed (permission denied — the container doesn't have write access to `tomnifty/brain`). The commit is local on the vault repo. Everything else is complete:
+
+**What I did:**
+- Wrote `plan-coder-integration.md` in the brain vault — a detailed spec covering:
+  - Thread frontmatter requirements (`sh-stream` as required field)
+  - Complete scanner.sh dispatch logic with guards (idempotency, concurrency, remote-diff safety)
+  - Prompt construction via temp file (no quoting issues)
+  - Container launch spec with tool/network/resource constraints
+  - Timeout watchdog
+  - Full result harvesting: parse `claude-result.json`, update thread, commit to vault
+  - 3-commit audit trail per execution cycle
+  - Cleanup/archival policy
+  - 5 open questions for human review
+- Updated `coder-integration.md`: `sh-status: iterate → review`, appended Turn 2
+- Updated `state.md` and `heartbeat.log`
+- Pushed to `rez-brain` (GitHub) — success
+- Vault commit local (Codeberg push rejected — container lacks write permission to `tomnifty/brain`)
+2026-03-18T08:02:15+00:00 — Heartbeat complete
+2026-03-18T08:30:00+00:00 — Heartbeat starting
+2026-03-18 | advanced research-infrastructure thread: wrote plan-research-infrastructure.md (ai-sandbox-research image, sh-type routing, dispatch/harvest functions, 10-step build order); thread set to review
