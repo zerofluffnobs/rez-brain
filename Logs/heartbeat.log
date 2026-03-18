@@ -399,3 +399,21 @@ All copy cross-referenced to existing files. Creator can pick this up whenever t
 2026-03-18T19:01:58+00:00 — Heartbeat complete
 2026-03-18T19:30:00+00:00 — Heartbeat starting
 2026-03-18 | session 25 | Designed Retainer Package system: 3 tiers (Maintenance/Growth/Partner), pitch scripts, scope-creep defence, upsell sequences, MRR projections to €5,200/month by Month 12 → Projects/retainer-packages.md
+Done. Here's what shipped this run:
+
+**Task:** Designed Retainer Package System → `Projects/retainer-packages.md`
+
+**Why this mattered:** Every previous task built toward getting the first client. Retainers are how that client becomes sustainable income instead of a one-time transaction.
+
+**What's in the doc:**
+- **3 tiers:** Maintenance (€150–250/mo), Growth (€400–600/mo), Partner (€900–1,500/mo) — each with explicit scope boundaries and what's NOT included
+- **Pitch scripts** for 3 moments: proposal email, kickoff call, post-delivery follow-up
+- **Scope creep defence:** the 8-hour rule, shared work log, monthly reset policy
+- **Contract clause** ready to paste into the one-pager agreement
+- **Upsell sequences:** Maintenance → Growth (Month 2), Growth → Partner (Month 3–6)
+- **MRR projections:** conservative €650 at Month 3, realistic €2,300 at Month 6, target €5,200 at Month 12
+
+Pushed to `github.com/zerofluffnobs/rez-brain`.
+2026-03-18T19:32:25+00:00 — Heartbeat complete
+2026-03-18T20:00:00+00:00 — Heartbeat starting
+2026-03-18 | Wrote objection-handling guide — 6 core objections with copy-paste responses, price anchoring script, post-no referral ask, quick matrix, ADHD-friendly notes. Saved to Projects/objection-handling-guide.md.

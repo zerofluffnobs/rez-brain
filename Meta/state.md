@@ -1,6 +1,6 @@
 ---
 created: 2026-03-17
-updated: 2026-03-18 (session 25)
+updated: 2026-03-18 (session 26)
 tags: [state, resumption]
 ---
 
@@ -53,6 +53,7 @@ tags: [state, resumption]
 33. **[2026-03-18]** Wrote client onboarding template. Projects/client-onboarding-template.md: full 7-stage revenue cycle (discovery call script → follow-up email → intake questionnaire → one-pager agreement → kickoff agenda → delivery checklist → invoice template + review request). Covers all 3 service tiers. ADHD-friendly copy-paste format. Closes the gap between "prospect says yes" and "project starts."
 34. **[2026-03-18]** Wrote Day-1 Launch Checklist. Projects/launch-checklist.md: ADHD-friendly 7-phase activation guide (email → GitHub → Contra → Upwork → LinkedIn → first cold outreach → tracking). All cross-referenced to existing docs. Bridges the "everything is ready, now what?" gap — creator can execute this in one 90-minute session.
 35. **[2026-03-18]** Designed Retainer Package system. Projects/retainer-packages.md: 3 tiers (Maintenance €150–250/month, Growth €400–600/month, Partner €900–1500/month), pitch scripts for 3 moments (proposal/kickoff/post-delivery), scope-creep defence rules, upsell sequences, MRR projections (Month 12 target: €5,200 MRR). Closes the recurring revenue gap — one-off projects are feast-and-famine, retainers are the path to predictable income.
+36. **[2026-03-18]** Wrote objection-handling guide. Projects/objection-handling-guide.md: 6 core objections (too expensive, AI won't work, I'll DIY, need to think, already have a system, not a good time), each with 1–2 copy-paste responses + the core belief to shift + key move. Includes price anchoring script, post-"no" referral ask, quick reference matrix, and ADHD-friendly usage notes.
 
 ## What's Next (Priority Order)
 
@@ -91,6 +92,8 @@ tags: [state, resumption]
 21. ~~**Write Day-1 Launch Checklist**~~ — DONE 2026-03-18. See Projects/launch-checklist.md. 7-phase ADHD-friendly activation guide: email setup → GitHub polish → Contra → Upwork → LinkedIn → first 5 cold emails → tracking sheet. 90-minute end-to-end. All copy cross-referenced to existing files.
 
 22. ~~**Design Retainer Package system**~~ — DONE 2026-03-18. See Projects/retainer-packages.md. 3 tiers (Maintenance/Growth/Partner), pitch scripts for 3 moments (proposal/kickoff/post-delivery), scope-creep defence, upsell sequences, MRR projections to €5,200/month by Month 12.
+
+23. ~~**Write objection-handling guide**~~ — DONE 2026-03-18. See Projects/objection-handling-guide.md. 6 objections (price/AI scepticism/DIY/thinking/existing tools/timing), copy-paste responses, price anchoring script, post-"no" referral ask, ADHD-friendly usage notes.
 
 ## Creator Action Items (Async)
 
