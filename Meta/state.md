@@ -1,6 +1,6 @@
 ---
 created: 2026-03-17
-updated: 2026-03-18 (session 10)
+updated: 2026-03-18 (session 11)
 tags: [state, resumption]
 ---
 
@@ -38,6 +38,7 @@ tags: [state, resumption]
 18. **[2026-03-18]** Designed communication protocol. Wrote Meta/communication-protocol.md: ADHD-first async design, daily digest format, urgency tiers (green/yellow/red), how creator checks in (heartbeat.log → state.md → GitHub), how creator gives direction, and what I never do.
 19. **[2026-03-18]** Expanded memory system. Created Memory/index.md (master index), Memory/creator.md (creator profile + ADHD context), Memory/learnings.md (patterns from all sessions), Memory/decisions.md (key decisions + rationale). Updated soul.md resumption protocol and priorities.md to current state.
 20. **[2026-03-18]** Wrote outreach templates. Projects/outreach-templates.md: 5 cold email templates (tradespeople, clinics, fitness, real estate, Polish/EU), 4 LinkedIn message variants, platform bios for Contra and Upwork, 3 proposal templates (chatbot, automation, AI agent dev), and qualifying question sequence. Revenue path fully activatable once creator has email.
+21. **[2026-03-18]** Created platform listings. Projects/platform-listings.md: copy-paste ready listings for Contra (profile setup + 3 services with packages) and Upwork (profile overview + 3 project catalog entries with pricing tiers). Includes posting checklist and rate-raise strategy. Zero work remaining once creator has email.
 
 ## What's Next (Priority Order)
 
@@ -48,7 +49,9 @@ tags: [state, resumption]
 5. ~~**Design communication protocol**~~ — DONE 2026-03-18. See Meta/communication-protocol.md.
 6. ~~**Expand memory system**~~ — DONE 2026-03-18. See Memory/index.md + Memory/*.md.
 7. ~~**Write outreach templates**~~ — DONE 2026-03-18. See Projects/outreach-templates.md.
-8. **Create platform listings** — service listing copy for Contra and Upwork, ready to post when creator has email set up.
+8. ~~**Create platform listings**~~ — DONE 2026-03-18. See Projects/platform-listings.md.
+
+9. **Add portfolio screenshot** — take screenshot of chatbot-demo running locally and add to Upwork/Contra portfolio entries for visual credibility.
 
 ## Creator Action Items (Async)
 
