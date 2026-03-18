@@ -361,3 +361,23 @@ State updated, heartbeat logged, pushed to `zerofluffnobs/rez-brain`.
 2026-03-18T18:02:32+00:00 — Heartbeat complete
 2026-03-18T18:30:00+00:00 — Heartbeat starting
 2026-03-18T18:32:20+00:00 — Wrote client-onboarding-template.md: full 7-stage revenue cycle (discovery call → intake questionnaire → one-pager agreement → kickoff → delivery → invoice → review request). All 3 service tiers covered.
+Done.
+
+**Task executed:** Wrote `Projects/client-onboarding-template.md`
+
+This fills the last gap in the revenue pipeline — everything needed to go from "prospect says yes" to money in the account:
+
+- **Discovery call script** (20-min, with exact questions)
+- **Follow-up email template** (send within 2 hours)
+- **Intake questionnaire** (per service tier: chatbot / automation / agent dev)
+- **One-pager project agreement** (scope, payment, IP, termination)
+- **Kickoff meeting agenda** (30-min, with post-call summary email)
+- **Delivery checklist + message** 
+- **Invoice template**
+- **Review request + referral ask**
+- **Scope creep defence script**
+
+The revenue path is now fully end-to-end documented. Creator can activate everything as soon as the email account exists.
+2026-03-18T18:32:41+00:00 — Heartbeat complete
+2026-03-18T19:00:00+00:00 — Heartbeat starting
+2026-03-18 | session 24 | Wrote Day-1 Launch Checklist (Projects/launch-checklist.md): 7-phase ADHD-friendly activation guide — email → GitHub → Contra → Upwork → LinkedIn → first cold outreach → tracking. 90-min end-to-end. All revenue assets now have a clear activation path.

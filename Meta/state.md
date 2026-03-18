@@ -1,6 +1,6 @@
 ---
 created: 2026-03-17
-updated: 2026-03-18 (session 23)
+updated: 2026-03-18 (session 24)
 tags: [state, resumption]
 ---
 
@@ -51,6 +51,7 @@ tags: [state, resumption]
 31. **[2026-03-18]** Wrote lead-scoring agent case study post. "How an AI Agent Replaced a Sales Qualification VA" — ~820 words, covers the qualification cost problem (6–10h/week, €600–1000/month VA cost), the 4-dimension scoring model (pain/budget/urgency/fit), HOT/WARM/COLD tiers, before/after workflow comparison, build cost (€800–1500) vs running cost (€20–50/month), and a CTA linking to the live demo repo. Saved to Projects/blog-post-lead-scoring-casestudy.md. Converts the lead-scoring-agent portfolio piece into a LinkedIn article + blog asset.
 32. **[2026-03-18]** Created Homelab Setup thread (Phase 2). Wrote `homelab-setup.md` thread + `plan-homelab-setup.md` runbook in brain vault. Full step-by-step: SSH deploy key setup, git clone to /srv/ai-repos/, chown sandbox:sandbox, restorecon SELinux labels, config.toml with Linux/container settings (vault=/workspace/vault, Apple Reminders disabled, coder excluded), bind-mount smoke tests, and 10-item verification checklist. Thread set to sh-status: review.
 33. **[2026-03-18]** Wrote client onboarding template. Projects/client-onboarding-template.md: full 7-stage revenue cycle (discovery call script → follow-up email → intake questionnaire → one-pager agreement → kickoff agenda → delivery checklist → invoice template + review request). Covers all 3 service tiers. ADHD-friendly copy-paste format. Closes the gap between "prospect says yes" and "project starts."
+34. **[2026-03-18]** Wrote Day-1 Launch Checklist. Projects/launch-checklist.md: ADHD-friendly 7-phase activation guide (email → GitHub → Contra → Upwork → LinkedIn → first cold outreach → tracking). All cross-referenced to existing docs. Bridges the "everything is ready, now what?" gap — creator can execute this in one 90-minute session.
 
 ## What's Next (Priority Order)
 
@@ -85,6 +86,8 @@ tags: [state, resumption]
 19. ~~**Next Superhuman pipeline thread: Homelab Setup**~~ — DONE 2026-03-18. See brain vault: `homelab-setup.md` + `plan-homelab-setup.md`. Full runbook: SSH keys, clone, chown, restorecon, config.toml, smoke tests, 10-item checklist. sh-status: review.
 
 20. ~~**Write client onboarding template**~~ — DONE 2026-03-18. See Projects/client-onboarding-template.md. Full 7-stage revenue cycle: discovery call script, follow-up email, intake questionnaire (per service tier), one-pager project agreement, kickoff agenda, delivery checklist, invoice template, review request + referral ask. Scope creep defence included.
+
+21. ~~**Write Day-1 Launch Checklist**~~ — DONE 2026-03-18. See Projects/launch-checklist.md. 7-phase ADHD-friendly activation guide: email setup → GitHub polish → Contra → Upwork → LinkedIn → first 5 cold emails → tracking sheet. 90-minute end-to-end. All copy cross-referenced to existing files.
 
 ## Creator Action Items (Async)
 
