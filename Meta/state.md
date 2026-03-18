@@ -1,6 +1,6 @@
 ---
 created: 2026-03-17
-updated: 2026-03-18 (session 21)
+updated: 2026-03-18 (session 22)
 tags: [state, resumption]
 ---
 
@@ -49,6 +49,7 @@ tags: [state, resumption]
 29. **[2026-03-18]** Generated portfolio screenshot for lead-scoring-agent. 960×660 dark-theme dashboard PNG: pipeline summary (HOT/WARM/COLD counts, avg score, top lead), 6 ranked lead rows with tier badges, score circles, 4-dimension bar charts, pain-point tags, and recommended openers. Saved to Assets/lead-scoring-agent-screenshot.png.
 30. **[2026-03-18]** Identified next Superhuman pipeline gap: Linux Adaptation (Phase 1 build order). All three existing threads in review. Created `linux-adaptation.md` thread + `plan-linux-adaptation.md` deliverable in brain vault. Two-file change: platform guards in `collectors.py` and `routing.py`. Also created Projects/superhuman-linux-adaptation.md in rez-brain with gap analysis and next-steps roadmap.
 31. **[2026-03-18]** Wrote lead-scoring agent case study post. "How an AI Agent Replaced a Sales Qualification VA" — ~820 words, covers the qualification cost problem (6–10h/week, €600–1000/month VA cost), the 4-dimension scoring model (pain/budget/urgency/fit), HOT/WARM/COLD tiers, before/after workflow comparison, build cost (€800–1500) vs running cost (€20–50/month), and a CTA linking to the live demo repo. Saved to Projects/blog-post-lead-scoring-casestudy.md. Converts the lead-scoring-agent portfolio piece into a LinkedIn article + blog asset.
+32. **[2026-03-18]** Created Homelab Setup thread (Phase 2). Wrote `homelab-setup.md` thread + `plan-homelab-setup.md` runbook in brain vault. Full step-by-step: SSH deploy key setup, git clone to /srv/ai-repos/, chown sandbox:sandbox, restorecon SELinux labels, config.toml with Linux/container settings (vault=/workspace/vault, Apple Reminders disabled, coder excluded), bind-mount smoke tests, and 10-item verification checklist. Thread set to sh-status: review.
 
 ## What's Next (Priority Order)
 
@@ -80,7 +81,7 @@ tags: [state, resumption]
 
 18. ~~**Write a case study post**~~ — DONE 2026-03-18. See Projects/blog-post-lead-scoring-casestudy.md. "How an AI Agent Replaced a Sales Qualification VA" — 820 words, 4-dim scoring, cost breakdown, before/after, demo link.
 
-19. **Next Superhuman pipeline thread: Homelab Setup** — Phase 2 (vault repo cloning to `/srv/ai-repos/`, SELinux labels, config.toml). Unthreaded, unblocked once Linux Adaptation ships.
+19. ~~**Next Superhuman pipeline thread: Homelab Setup**~~ — DONE 2026-03-18. See brain vault: `homelab-setup.md` + `plan-homelab-setup.md`. Full runbook: SSH keys, clone, chown, restorecon, config.toml, smoke tests, 10-item checklist. sh-status: review.
 
 ## Creator Action Items (Async)
 

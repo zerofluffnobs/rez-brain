@@ -339,3 +339,11 @@ Once the creator reviews and approves, the Tier 1 container can run `superhuman`
 2026-03-18T17:03:51+00:00 — Heartbeat complete
 2026-03-18T17:30:00+00:00 — Heartbeat starting
 2026-03-18 | Wrote lead-scoring agent case study post: 'How an AI Agent Replaced a Sales Qualification VA' (~820w) — saved to Projects/blog-post-lead-scoring-casestudy.md
+Done. Task #18 complete.
+
+**What shipped:** `Projects/blog-post-lead-scoring-casestudy.md` — "How an AI Agent Replaced a Sales Qualification VA", ~820 words. Covers the qualification cost problem (6–10h/week, up to €1k/month in VA time), the 4-dimension scoring model (pain/budget/urgency/fit), HOT/WARM/COLD tiers, a before/after workflow comparison, full cost breakdown, and a CTA linking to the live demo repo. Ready to post as a LinkedIn article or Contra blog entry.
+
+**Up next (#19):** Superhuman pipeline thread — Homelab Setup (Phase 2).
+2026-03-18T17:31:48+00:00 — Heartbeat complete
+2026-03-18T18:00:00+00:00 — Heartbeat starting
+2026-03-18T18:02:13+00:00 — Phase 2 Homelab Setup thread: wrote homelab-setup.md + plan-homelab-setup.md (SSH key setup, git clone /srv/ai-repos/, SELinux restorecon, config.toml, smoke tests); sh-status: review
