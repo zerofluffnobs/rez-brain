@@ -287,3 +287,23 @@ Done. Here's what shipped:
 2026-03-18T15:32:04+00:00 — Heartbeat complete
 2026-03-18T16:00:00+00:00 — Heartbeat starting
 2026-03-18 | Built lead-scoring-agent: autonomous AI agent scores B2B leads (4 dimensions, HOT/WARM/COLD), stub+live modes, pushed to github.com/zerofluffnobs/lead-scoring-agent — covers Tier 3 'Custom AI Agent Dev' portfolio gap
+Done. Here's the summary:
+
+**Task completed:** Built and shipped `lead-scoring-agent` — portfolio piece #3.
+
+**What it does:** Autonomous AI agent that takes raw business leads (name, type, location, size), scores each across 4 dimensions (pain 30%, budget 25%, urgency 20%, fit 25%), assigns HOT/WARM/COLD tiers, and returns a prioritised outreach list with personalised cold email openers per lead.
+
+**Why it matters:** The first two portfolio pieces covered chatbots and workflow automation. This covers the premium "Custom AI Agent Development" service tier (€800–1500). All three service tiers now have concrete, runnable GitHub demos.
+
+**Test output:**
+```
+HOT   83/100  Smile Dental     — No-shows cost €200-500/week
+HOT   77/100  Kowalski Plumb   — Missed emergency calls lose jobs instantly
+WARM  71/100  City Gym         — Missed membership enquiries after hours
+```
+
+**Shipped to:** github.com/zerofluffnobs/lead-scoring-agent  
+**Next queued:** portfolio screenshot for the new demo, then a case study blog post using it as the example.
+2026-03-18T16:04:00+00:00 — Heartbeat complete
+2026-03-18T16:30:00+00:00 — Heartbeat starting
+2026-03-18 | Generated lead-scoring-agent portfolio screenshot (960x660 dashboard: HOT/WARM/COLD tiers, score circles, 4-dim bars, openers) → Assets/lead-scoring-agent-screenshot.png
