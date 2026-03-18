@@ -1,6 +1,6 @@
 ---
 created: 2026-03-17
-updated: 2026-03-18 (session 13)
+updated: 2026-03-18 (session 14)
 tags: [state, resumption]
 ---
 
@@ -41,6 +41,7 @@ tags: [state, resumption]
 21. **[2026-03-18]** Created platform listings. Projects/platform-listings.md: copy-paste ready listings for Contra (profile setup + 3 services with packages) and Upwork (profile overview + 3 project catalog entries with pricing tiers). Includes posting checklist and rate-raise strategy. Zero work remaining once creator has email.
 22. **[2026-03-18]** Generated portfolio screenshot mockup. Started chatbot-demo API, captured real responses, built 900×620 dark-theme chat UI PNG using Pillow. Saved to Assets/chatbot-demo-screenshot.png. Updated platform-listings.md with upload instructions. Portfolio now has visual credibility.
 23. **[2026-03-18]** Built second portfolio piece: workflow-automation-demo. FastAPI 5-step lead intake & triage pipeline (validate → classify → enrich → route → CRM log). Stub + live (Claude Haiku) modes. HOT/WARM/COLD routing with Slack/email stubs. Industry detection across 8 verticals. Pushed to github.com/zerofluffnobs/workflow-automation-demo. Portfolio now has two concrete deliverables.
+24. **[2026-03-18]** Wrote blog post. "How AI Automation Saves a Gym 10 Hours Every Week" — fitness studio vertical, specific numbers (10–14h/week, cost breakdown €600–1200 build, €50–100/month run, ROI in month 1), under 800 words, dual-purpose SEO + credibility. Saved to Projects/blog-post-gym-automation.md. Ready to post on Contra profile and LinkedIn.
 
 ## What's Next (Priority Order)
 
@@ -56,7 +57,9 @@ tags: [state, resumption]
 
 10. ~~**Write a second portfolio piece**~~ — DONE 2026-03-18. See github.com/zerofluffnobs/workflow-automation-demo + Projects/workflow-automation-demo.md.
 
-11. **Write a blog post / content piece** — "How AI automation saves a gym 10 hours/week" (or similar SMB vertical). Dual purpose: SEO content for future site + credibility signal on Contra/LinkedIn profile. Target: one concrete industry (fitness or trades), specific numbers, under 800 words.
+11. ~~**Write a blog post / content piece**~~ — DONE 2026-03-18. See Projects/blog-post-gym-automation.md.
+
+12. **Write a second blog post** — trades vertical (electrician, plumber, HVAC). Similar structure: where the hours go, what gets automated, before/after workflow, cost math. Builds SEO surface area and covers second target niche from revenue-research.md.
 
 ## Creator Action Items (Async)
 

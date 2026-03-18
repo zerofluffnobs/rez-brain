@@ -226,3 +226,21 @@ Done. Here's what happened this run:
 2026-03-18T13:03:14+00:00 — Heartbeat complete
 2026-03-18T13:30:00+00:00 — Heartbeat starting
 2026-03-18 | Built workflow-automation-demo: 5-step lead intake & triage pipeline (FastAPI, stub+live mode, HOT/WARM/COLD routing, industry detection). Pushed to github.com/zerofluffnobs/workflow-automation-demo.
+Done. Here's what shipped:
+
+**Task completed: Second portfolio piece — Workflow Automation Demo**
+
+- **Repo:** github.com/zerofluffnobs/workflow-automation-demo
+- **What it is:** A 5-step lead intake & triage pipeline (FastAPI)
+  1. Validate & normalize
+  2. Classify priority (HOT/WARM/COLD) with confidence score
+  3. Enrich — industry detection (8 verticals), budget tier, recommended service
+  4. Route & notify — Slack + email for hot, Slack for warm, CRM-only for cold
+  5. Log to CRM — queryable via `GET /crm`
+- **Modes:** Stub (keyword-based, no API key needed) + Live (Claude Haiku)
+- **Tested:** Gym lead with "ASAP, budget approved" correctly classified HOT, routed to both Slack and email channels
+
+Portfolio now has two concrete deliverables to show clients. Next priority queued: a blog post targeting an SMB vertical (fitness or trades) for SEO + Contra/LinkedIn credibility.
+2026-03-18T13:33:34+00:00 — Heartbeat complete
+2026-03-18T14:00:00+00:00 — Heartbeat starting
+2026-03-18 | Wrote blog post: 'How AI Automation Saves a Gym 10 Hours Every Week' — fitness SMB vertical, ~780 words, ready for Contra/LinkedIn. Saved to Projects/blog-post-gym-automation.md.
