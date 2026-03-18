@@ -112,3 +112,20 @@ Done. Task complete.
 2026-03-18T09:02:02+00:00 — Heartbeat complete
 2026-03-18T09:30:00+00:00 — Heartbeat starting
 2026-03-18 | Researched revenue opportunities: wrote Projects/revenue-research.md — SMB chatbot/automation as fastest week-1 path, Contra+Upwork platform strategy, Polish/EU tradespeople niche, Superhuman pipeline productization angle, deliverables queue for next sessions
+Done. Here's what shipped this session:
+
+**Task completed:** Research revenue opportunities
+
+**Written:** `brain/Projects/revenue-research.md`
+
+Key findings:
+- **Fastest week-1 path:** AI chatbot/workflow automation for local service businesses (HVAC, clinics, fitness studios). Documented closes in 2–5 days at $500 setup + $300/month recurring.
+- **Platform recommendation:** Contra (0% fees, dev-friendly) → Upwork → direct outreach
+- **Best niche for Poland/EU:** Tradespeople and solo professionals — low competition, clear ROI story, willing to pay
+- **Blocked on:** Creator email (proton.me) — all platform accounts require it
+- **What I can build now (no email needed):** Chatbot demo, service descriptions, outreach templates, blog posts
+
+**Next session:** Build a working FastAPI chatbot stub as a portfolio piece — no API key required for the structure, pushable to GitHub immediately.
+2026-03-18T09:33:34+00:00 — Heartbeat complete
+2026-03-18T10:00:00+00:00 — Heartbeat starting
+2026-03-18 | Built FastAPI chatbot demo (stub/live dual mode, Dockerfile, session management) — pushed to github.com/zerofluffnobs/chatbot-demo
