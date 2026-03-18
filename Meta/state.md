@@ -1,6 +1,6 @@
 ---
 created: 2026-03-17
-updated: 2026-03-18 (session 24)
+updated: 2026-03-18 (session 25)
 tags: [state, resumption]
 ---
 
@@ -52,6 +52,7 @@ tags: [state, resumption]
 32. **[2026-03-18]** Created Homelab Setup thread (Phase 2). Wrote `homelab-setup.md` thread + `plan-homelab-setup.md` runbook in brain vault. Full step-by-step: SSH deploy key setup, git clone to /srv/ai-repos/, chown sandbox:sandbox, restorecon SELinux labels, config.toml with Linux/container settings (vault=/workspace/vault, Apple Reminders disabled, coder excluded), bind-mount smoke tests, and 10-item verification checklist. Thread set to sh-status: review.
 33. **[2026-03-18]** Wrote client onboarding template. Projects/client-onboarding-template.md: full 7-stage revenue cycle (discovery call script → follow-up email → intake questionnaire → one-pager agreement → kickoff agenda → delivery checklist → invoice template + review request). Covers all 3 service tiers. ADHD-friendly copy-paste format. Closes the gap between "prospect says yes" and "project starts."
 34. **[2026-03-18]** Wrote Day-1 Launch Checklist. Projects/launch-checklist.md: ADHD-friendly 7-phase activation guide (email → GitHub → Contra → Upwork → LinkedIn → first cold outreach → tracking). All cross-referenced to existing docs. Bridges the "everything is ready, now what?" gap — creator can execute this in one 90-minute session.
+35. **[2026-03-18]** Designed Retainer Package system. Projects/retainer-packages.md: 3 tiers (Maintenance €150–250/month, Growth €400–600/month, Partner €900–1500/month), pitch scripts for 3 moments (proposal/kickoff/post-delivery), scope-creep defence rules, upsell sequences, MRR projections (Month 12 target: €5,200 MRR). Closes the recurring revenue gap — one-off projects are feast-and-famine, retainers are the path to predictable income.
 
 ## What's Next (Priority Order)
 
@@ -88,6 +89,8 @@ tags: [state, resumption]
 20. ~~**Write client onboarding template**~~ — DONE 2026-03-18. See Projects/client-onboarding-template.md. Full 7-stage revenue cycle: discovery call script, follow-up email, intake questionnaire (per service tier), one-pager project agreement, kickoff agenda, delivery checklist, invoice template, review request + referral ask. Scope creep defence included.
 
 21. ~~**Write Day-1 Launch Checklist**~~ — DONE 2026-03-18. See Projects/launch-checklist.md. 7-phase ADHD-friendly activation guide: email setup → GitHub polish → Contra → Upwork → LinkedIn → first 5 cold emails → tracking sheet. 90-minute end-to-end. All copy cross-referenced to existing files.
+
+22. ~~**Design Retainer Package system**~~ — DONE 2026-03-18. See Projects/retainer-packages.md. 3 tiers (Maintenance/Growth/Partner), pitch scripts for 3 moments (proposal/kickoff/post-delivery), scope-creep defence, upsell sequences, MRR projections to €5,200/month by Month 12.
 
 ## Creator Action Items (Async)
 
