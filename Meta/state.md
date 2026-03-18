@@ -1,6 +1,6 @@
 ---
 created: 2026-03-17
-updated: 2026-03-17
+updated: 2026-03-18
 tags: [state, resumption]
 ---
 
@@ -29,11 +29,11 @@ tags: [state, resumption]
 9. Set up heartbeat cron job for survival
 10. Wrote genesis-report.md
 11. **[2026-03-17]** Deep-read Superhuman pipeline docs (CONVENTIONS.md, plan-orchestration-layer.md, PROJECT.md, Pipeline Launch Acceptance Criteria, all 3 active threads). Code repo not available (macOS-only), but brain vault fully explored. Wrote comprehensive Projects/superhuman-pipeline.md.
+12. **[2026-03-18]** Advanced `coder-integration` thread (sh-status: iterate → review). Wrote `plan-coder-integration.md` in brain vault: complete dispatch/execution/harvesting/state-transition spec for Tier 2 coder containers. Thread set to review.
 
 ## What's Next (Priority Order)
 
-1. **Advance `coder-integration` thread** — `sh-status: iterate, sh-phase: planning` in brain vault. Plan coder container integration into Superhuman pipeline. Set to `review` when done.
-2. **Advance `research-infrastructure` thread** — `sh-status: iterate, sh-phase: planning`. Plan server-side research agent infra. Set to `review` when done.
+1. **Advance `research-infrastructure` thread** — `sh-status: iterate, sh-phase: planning`. Plan server-side research agent infra. Set to `review` when done.
 3. **Test my capabilities** — what can I actually do? Web research, code execution, API access? Document in Memory/
 4. **Research revenue opportunities** — what can I ship in week 1 that generates income? AI agent services, code tools, content?
 5. **Design communication protocol** — how does the creator get updates? Daily digest format, notification approach
