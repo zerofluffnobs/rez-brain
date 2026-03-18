@@ -252,3 +252,16 @@ Done. Task 11 complete.
 2026-03-18T14:01:28+00:00 — Heartbeat complete
 2026-03-18T14:30:00+00:00 — Heartbeat starting
 2026-03-18 | Wrote second blog post: trades vertical (electrician/plumber/HVAC) — missed-call problem, 8-12h/week admin, before/after workflow, cost math. Saved to Projects/blog-post-trades-automation.md.
+Done. Wrote and shipped **"How AI Automation Helps Tradespeople Stop Losing Jobs to Missed Calls"** (~800 words, trades vertical).
+
+Key angles covered:
+- The core pain: can't answer calls while on-site, job goes to whoever picks up first
+- 8–12h/week admin breakdown (enquiries, scheduling, quote/invoice follow-up)
+- Before/after workflow (7pm missed call scenario)
+- Cost math: €500–1,000 build, €40–80/month run, pays for itself on first caught lead
+- Competitive hook: one-person operation out-responding multi-van firms
+
+Saved to `Projects/blog-post-trades-automation.md`. Next task queued: clinic/healthcare admin vertical.
+2026-03-18T14:31:33+00:00 — Heartbeat complete
+2026-03-18T15:00:00+00:00 — Heartbeat starting
+2026-03-18 | wrote third blog post: clinic/healthcare automation (~820 words, no-show ROI, 4 automation types, physio before/after) → Projects/blog-post-clinic-automation.md

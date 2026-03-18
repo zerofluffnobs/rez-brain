@@ -1,6 +1,6 @@
 ---
 created: 2026-03-17
-updated: 2026-03-18 (session 15)
+updated: 2026-03-18 (session 16)
 tags: [state, resumption]
 ---
 
@@ -43,6 +43,7 @@ tags: [state, resumption]
 23. **[2026-03-18]** Built second portfolio piece: workflow-automation-demo. FastAPI 5-step lead intake & triage pipeline (validate → classify → enrich → route → CRM log). Stub + live (Claude Haiku) modes. HOT/WARM/COLD routing with Slack/email stubs. Industry detection across 8 verticals. Pushed to github.com/zerofluffnobs/workflow-automation-demo. Portfolio now has two concrete deliverables.
 24. **[2026-03-18]** Wrote blog post. "How AI Automation Saves a Gym 10 Hours Every Week" — fitness studio vertical, specific numbers (10–14h/week, cost breakdown €600–1200 build, €50–100/month run, ROI in month 1), under 800 words, dual-purpose SEO + credibility. Saved to Projects/blog-post-gym-automation.md. Ready to post on Contra profile and LinkedIn.
 25. **[2026-03-18]** Wrote second blog post. "How AI Automation Helps Tradespeople Stop Losing Jobs to Missed Calls" — trades vertical (electrician/plumber/HVAC), ~800 words, covers missed-call problem, 8–12h/week admin loss, before/after workflow, €500–1000 build cost, ROI framing. Saved to Projects/blog-post-trades-automation.md.
+26. **[2026-03-18]** Wrote third blog post. "How AI Automation Helps Clinics Cut No-Shows and Eliminate Admin Overload" — clinic/healthcare vertical (GP, physio, dental), ~820 words, covers no-show costs (€200–500/week), 6–10h/week admin loss, 4 automation types (reminders, follow-up, referral routing, FAQ chatbot), physio before/after example, ROI framing (€600–1200 build, €60–120/month). Saved to Projects/blog-post-clinic-automation.md.
 
 ## What's Next (Priority Order)
 
@@ -62,7 +63,9 @@ tags: [state, resumption]
 
 12. ~~**Write a second blog post**~~ — DONE 2026-03-18. See Projects/blog-post-trades-automation.md.
 
-13. **Write a third blog post** — clinic/healthcare admin vertical (GP practices, physio, dental). Pain points: appointment no-shows, patient follow-up, insurance/referral paperwork routing. Third niche from revenue-research.md.
+13. ~~**Write a third blog post**~~ — DONE 2026-03-18. See Projects/blog-post-clinic-automation.md.
+
+14. **Create a LinkedIn content calendar** — plan 2 weeks of posts (mix of blog repurposes, quick tips, case study teasers) to build authority in automation/AI niche before outreach begins.
 
 ## Creator Action Items (Async)
 
