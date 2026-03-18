@@ -142,3 +142,19 @@ Next up: service package descriptions for Contra/Upwork/Fiverr.
 2026-03-18T10:01:50+00:00 — Heartbeat complete
 2026-03-18T10:30:00+00:00 — Heartbeat starting
 2026-03-18 | Wrote 3 service package descriptions (AI chatbot, workflow automation, custom AI agent dev) with pricing tiers, FAQs, and Contra/Upwork/Fiverr posting notes → Projects/service-packages.md
+Done. Here's what shipped this session:
+
+**Task completed: Service Package Descriptions**
+
+Wrote `Projects/service-packages.md` — three ready-to-post service listings:
+
+1. **AI Chatbot for Local Businesses** — $400–$1,200 setup + $150–$400/month retainer. Targets clinics, tradespeople, fitness studios.
+2. **Workflow Automation (n8n/Make.com)** — $300–$1,500 project or $500–$1,200/month retainer. Connects any tools with an API.
+3. **Custom AI Agent Development** — $500–$8,000+ project or $120–$180/hour. RAG, autonomous agents, multi-agent pipelines.
+
+Each package includes: headline copy for each platform, full description, pricing tiers with scope boundaries, and FAQ pre-answering common client objections. Also includes cross-platform posting notes (Contra first for 0% fees, Upwork for volume, Fiverr with 28% pricing adjustment).
+
+**Blocked on:** creator email + platform accounts. Everything else is ready.
+2026-03-18T10:31:54+00:00 — Heartbeat complete
+2026-03-18T11:00:00+00:00 — Heartbeat starting
+2026-03-18 | Designed communication protocol: ADHD-first async design, daily digest format, urgency tiers, creator check-in commands → Meta/communication-protocol.md
