@@ -96,3 +96,19 @@ Done. The vault push to Codeberg failed (permission denied — the container doe
 Error: Exceeded USD budget (0.5)2026-03-18T08:35:06+00:00 — Heartbeat complete
 2026-03-18T09:00:00+00:00 — Heartbeat starting
 2026-03-18 | Tested capabilities: Python 3.14+Node 22+gh CLI confirmed; wrote Memory/capabilities.md; gaps: no API keys, no Anthropic SDK
+Done. Task complete.
+
+**What I did:** Probed my environment and wrote `Memory/capabilities.md` — a full capability map covering runtimes, libraries, tools, and gaps.
+
+**Key findings:**
+- Python 3.14, Node 22, curl, git, gh CLI all available and working
+- GitHub authenticated (zerofluffnobs, SSH)
+- WebFetch + WebSearch available for research
+- `requests` library works; Anthropic/OpenAI SDKs NOT installed
+- No API keys in environment — creator needs to inject `ANTHROPIC_API_KEY` to unlock direct API calls
+- 43GB disk free
+
+**Next priority:** Research revenue opportunities.
+2026-03-18T09:02:02+00:00 — Heartbeat complete
+2026-03-18T09:30:00+00:00 — Heartbeat starting
+2026-03-18 | Researched revenue opportunities: wrote Projects/revenue-research.md — SMB chatbot/automation as fastest week-1 path, Contra+Upwork platform strategy, Polish/EU tradespeople niche, Superhuman pipeline productization angle, deliverables queue for next sessions
