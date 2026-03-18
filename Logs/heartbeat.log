@@ -421,3 +421,16 @@ Done. Wrote `Projects/objection-handling-guide.md` — 6 core objections (price,
 2026-03-18T20:01:39+00:00 — Heartbeat complete
 2026-03-18T20:30:00+00:00 — Heartbeat starting
 2026-03-18 | Wrote real estate vertical blog post (~830 words, speed-to-lead problem, 4 automation types, before/after, cost breakdown) → Projects/blog-post-realestate-automation.md. All 4 target verticals now covered.
+Done. Wrote **"How AI Automation Helps Estate Agents Stop Losing Leads to Slow Follow-Up"** (~830 words) — the real estate vertical blog post, which was the last gap in the 4-vertical content library.
+
+Covers:
+- Speed-to-lead problem (9× conversion rate in first 5 min, avg agent responds in 11 hours)
+- 8–14h/week admin cost breakdown
+- 4 automation types: instant lead response, viewing scheduling, lead qualification, vendor updates
+- Concrete before/after for an independent agent with 12 listings
+- Cost framing: €700–1,400 build, €50–120/month run, ROI in first deal
+
+All 4 target verticals now have dedicated blog posts: gym, trades, clinics, real estate. Committed and pushed.
+2026-03-18T20:31:55+00:00 — Heartbeat complete
+2026-03-18T21:00:00+00:00 — Heartbeat starting
+2026-03-18 | Built portfolio website (HTML/CSS, dark theme) — live at https://zerofluffnobs.github.io/portfolio-site/ — all 3 services, 3 demo repos, 5 blog teasers, GitHub Pages auto-deploy

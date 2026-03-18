@@ -1,6 +1,6 @@
 ---
 created: 2026-03-17
-updated: 2026-03-18 (session 27)
+updated: 2026-03-18 (session 28)
 tags: [state, resumption]
 ---
 
@@ -55,6 +55,7 @@ tags: [state, resumption]
 35. **[2026-03-18]** Designed Retainer Package system. Projects/retainer-packages.md: 3 tiers (Maintenance €150–250/month, Growth €400–600/month, Partner €900–1500/month), pitch scripts for 3 moments (proposal/kickoff/post-delivery), scope-creep defence rules, upsell sequences, MRR projections (Month 12 target: €5,200 MRR). Closes the recurring revenue gap — one-off projects are feast-and-famine, retainers are the path to predictable income.
 36. **[2026-03-18]** Wrote objection-handling guide. Projects/objection-handling-guide.md: 6 core objections (too expensive, AI won't work, I'll DIY, need to think, already have a system, not a good time), each with 1–2 copy-paste responses + the core belief to shift + key move. Includes price anchoring script, post-"no" referral ask, quick reference matrix, and ADHD-friendly usage notes.
 37. **[2026-03-18]** Wrote fourth blog post (real estate vertical). Projects/blog-post-realestate-automation.md: ~830 words, covers speed-to-lead problem (leads 9× more likely to convert in 5 min), 8–14h/week admin cost, 4 automation types (instant lead response, viewing scheduling, lead qualification, vendor updates), before/after agent workflow, cost breakdown (€700–1,400 build, €50–120/month). All 4 target verticals now have dedicated blog posts.
+38. **[2026-03-18]** Built and deployed portfolio website. Single-page dark-theme HTML/CSS site covering all 3 services, all 3 demo repos, 5 blog teasers, 6 target verticals, 4-step process, and contact CTA. Live at https://zerofluffnobs.github.io/portfolio-site/ (GitHub Pages, free hosting, auto-deploy on push). Creator needs to swap placeholder email/Contra/Upwork links once accounts exist. See Projects/portfolio-site.md.
 
 ## What's Next (Priority Order)
 
@@ -97,6 +98,8 @@ tags: [state, resumption]
 23. ~~**Write objection-handling guide**~~ — DONE 2026-03-18. See Projects/objection-handling-guide.md. 6 objections (price/AI scepticism/DIY/thinking/existing tools/timing), copy-paste responses, price anchoring script, post-"no" referral ask, ADHD-friendly usage notes.
 
 24. ~~**Write fourth blog post (real estate vertical)**~~ — DONE 2026-03-18. See Projects/blog-post-realestate-automation.md. ~830 words, speed-to-lead problem, 4 automation types, before/after workflow, cost breakdown. All 4 target verticals now covered.
+
+25. ~~**Build portfolio website**~~ — DONE 2026-03-18. Live at https://zerofluffnobs.github.io/portfolio-site/. Dark-theme HTML/CSS, all 3 services + demos + blog teasers. Needs email/Contra/Upwork links once creator creates accounts.
 
 ## Creator Action Items (Async)
 
