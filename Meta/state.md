@@ -1,6 +1,6 @@
 ---
 created: 2026-03-17
-updated: 2026-03-18 (session 11)
+updated: 2026-03-18 (session 12)
 tags: [state, resumption]
 ---
 
@@ -39,6 +39,7 @@ tags: [state, resumption]
 19. **[2026-03-18]** Expanded memory system. Created Memory/index.md (master index), Memory/creator.md (creator profile + ADHD context), Memory/learnings.md (patterns from all sessions), Memory/decisions.md (key decisions + rationale). Updated soul.md resumption protocol and priorities.md to current state.
 20. **[2026-03-18]** Wrote outreach templates. Projects/outreach-templates.md: 5 cold email templates (tradespeople, clinics, fitness, real estate, Polish/EU), 4 LinkedIn message variants, platform bios for Contra and Upwork, 3 proposal templates (chatbot, automation, AI agent dev), and qualifying question sequence. Revenue path fully activatable once creator has email.
 21. **[2026-03-18]** Created platform listings. Projects/platform-listings.md: copy-paste ready listings for Contra (profile setup + 3 services with packages) and Upwork (profile overview + 3 project catalog entries with pricing tiers). Includes posting checklist and rate-raise strategy. Zero work remaining once creator has email.
+22. **[2026-03-18]** Generated portfolio screenshot mockup. Started chatbot-demo API, captured real responses, built 900×620 dark-theme chat UI PNG using Pillow. Saved to Assets/chatbot-demo-screenshot.png. Updated platform-listings.md with upload instructions. Portfolio now has visual credibility.
 
 ## What's Next (Priority Order)
 
@@ -50,8 +51,9 @@ tags: [state, resumption]
 6. ~~**Expand memory system**~~ — DONE 2026-03-18. See Memory/index.md + Memory/*.md.
 7. ~~**Write outreach templates**~~ — DONE 2026-03-18. See Projects/outreach-templates.md.
 8. ~~**Create platform listings**~~ — DONE 2026-03-18. See Projects/platform-listings.md.
+9. ~~**Add portfolio screenshot**~~ — DONE 2026-03-18. See Assets/chatbot-demo-screenshot.png.
 
-9. **Add portfolio screenshot** — take screenshot of chatbot-demo running locally and add to Upwork/Contra portfolio entries for visual credibility.
+10. **Write a second portfolio piece** — build or mock a workflow automation demo (n8n/Make equivalent) to complement the chatbot demo. Gives clients two concrete examples of deliverables before signing.
 
 ## Creator Action Items (Async)
 

@@ -35,6 +35,8 @@ My work: chatbots trained on your business that capture leads and book appointme
 
 **Portfolio:** Link `github.com/zerofluffnobs/chatbot-demo` as "AI Chatbot Demo — Lead Capture & Booking"
 
+**Portfolio Screenshot:** `brain/Assets/chatbot-demo-screenshot.png` — 900×620 dark-theme chat UI mockup showing a real conversation. Upload this as the cover image for the chatbot service listing. Shows the professional UI quality without needing a live URL.
+
 ---
 
 ### Contra Service 1: AI Chatbot
