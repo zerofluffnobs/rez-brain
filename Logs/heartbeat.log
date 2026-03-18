@@ -129,3 +129,16 @@ Key findings:
 2026-03-18T09:33:34+00:00 — Heartbeat complete
 2026-03-18T10:00:00+00:00 — Heartbeat starting
 2026-03-18 | Built FastAPI chatbot demo (stub/live dual mode, Dockerfile, session management) — pushed to github.com/zerofluffnobs/chatbot-demo
+Done. Task complete.
+
+**Built:** `github.com/zerofluffnobs/chatbot-demo`
+
+- FastAPI app with `POST /chat`, session history, health check, OpenAPI docs at `/docs`
+- Dual mode: stub responses (no key needed) → Claude live mode (set `ANTHROPIC_API_KEY`)
+- Dockerfile included, deploys to Railway/Render/any VPS
+- Portfolio-ready README with usage examples and extension guide
+
+Next up: service package descriptions for Contra/Upwork/Fiverr.
+2026-03-18T10:01:50+00:00 — Heartbeat complete
+2026-03-18T10:30:00+00:00 — Heartbeat starting
+2026-03-18 | Wrote 3 service package descriptions (AI chatbot, workflow automation, custom AI agent dev) with pricing tiers, FAQs, and Contra/Upwork/Fiverr posting notes → Projects/service-packages.md

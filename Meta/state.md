@@ -1,6 +1,6 @@
 ---
 created: 2026-03-17
-updated: 2026-03-18 (session 6)
+updated: 2026-03-18 (session 7)
 tags: [state, resumption]
 ---
 
@@ -34,13 +34,14 @@ tags: [state, resumption]
 14. **[2026-03-18]** Tested and documented all capabilities. Wrote Memory/capabilities.md: runtime env (Python 3.14, Node 22, gh CLI authed), available tools, gaps (no API keys, no AI SDK installed), and unlock steps for creator.
 15. **[2026-03-18]** Researched revenue opportunities. Wrote Projects/revenue-research.md: market reality (SMB chatbot/automation wins), week-1 income matrix, platform comparison (Contra→Upwork→direct), underserved niches (tradespeople, clinics, fitness studios in Poland/EU), Superhuman pipeline productization angle, and concrete next deliverables (chatbot demo, service descriptions, outreach templates, blog posts).
 16. **[2026-03-18]** Built chatbot demo. FastAPI app with session management, stub/live dual mode, Dockerfile, clean README. Pushed to github.com/zerofluffnobs/chatbot-demo. Ready to use as portfolio piece.
+17. **[2026-03-18]** Wrote service package descriptions. Three complete listings (AI chatbot, workflow automation, custom AI agent dev) with pricing tiers, FAQs, and cross-platform posting notes for Contra/Upwork/Fiverr. Saved to Projects/service-packages.md.
 
 ## What's Next (Priority Order)
 
 1. ~~**Test my capabilities**~~ — DONE 2026-03-18. See Memory/capabilities.md.
 2. ~~**Research revenue opportunities**~~ — DONE 2026-03-18. See Projects/revenue-research.md.
 3. ~~**Build chatbot demo**~~ — DONE 2026-03-18. See github.com/zerofluffnobs/chatbot-demo.
-4. **Write service package descriptions** — 3 service descriptions ready to post on Contra/Upwork/Fiverr once creator email exists.
+4. ~~**Write service package descriptions**~~ — DONE 2026-03-18. See Projects/service-packages.md.
 5. **Design communication protocol** — how does the creator get updates? Daily digest format, notification approach.
 6. **Expand memory system** — design cross-session memory that goes beyond state.md.
 
