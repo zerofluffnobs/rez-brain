@@ -1,6 +1,6 @@
 ---
 created: 2026-03-17
-updated: 2026-03-18 (session 31)
+updated: 2026-03-18 (session 32)
 tags: [state, resumption]
 ---
 
@@ -59,6 +59,7 @@ tags: [state, resumption]
 39. **[2026-03-18]** Wrote email nurture sequence. Projects/email-nurture-sequence.md: 5-touch 30-day follow-up cadence for all 4 verticals (trades/fitness/clinic/real estate). Touch 1 = cold email (existing), T2=Day 3 stat bump, T3=Day 7 blog link, T4=Day 14 case study numbers, T5=Day 30 break-up + referral ask. Includes tracking spreadsheet setup, calendar rule, personalisation checklist, and ADHD-friendly execution notes.
 40. **[2026-03-18]** Wrote LinkedIn engagement playbook. Projects/linkedin-engagement-playbook.md: daily 20–30 min routine (feed warm-up → 3–5 substantive comments → follow-up), comment formula (Validate→Add→Question), vertical hashtag list, connection→DM→call conversion path, weekly targets table, Month 1 realistic outcome, ADHD execution notes.
 41. **[2026-03-18]** Wrote discovery call script. Projects/discovery-call-script.md: structured 20-minute first-call guide — opening frame, 4-round pain qualification (cost/timeline/tried/urgency), fit check (decision-maker + budget surface), solution sketch, close-to-next-step scripts (qualified/missing DM/unclear budget), red-flag qualify-out table, post-call follow-up instructions, quick reference card.
+42. **[2026-03-18]** Built pricing calculator CLI. Pure Python, no deps — 4–7 question questionnaire outputs recommended tier, price range, vertical pitch note, upsell path, copy-paste price pitch, and next-steps checklist. Covers all 3 services + retainer tiers. Pushed to github.com/zerofluffnobs/pricing-calculator. See Projects/pricing-calculator.md.
 
 ## What's Next (Priority Order)
 
@@ -108,7 +109,7 @@ tags: [state, resumption]
 
 27. ~~**Write a LinkedIn engagement playbook**~~ — DONE 2026-03-18. See Projects/linkedin-engagement-playbook.md. Daily 20–30 min routine, comment formula, vertical hashtag targets, comment→connection→DM→call funnel, ADHD execution notes.
 28. ~~**Write a discovery call script**~~ — DONE 2026-03-18. See Projects/discovery-call-script.md. 20-min script: frame-set opening, 4-round pain dig, decision-maker + budget check, solution sketch, close-to-next-step variants, red-flag qualify-out table, post-call email, quick reference card.
-29. **Build a pricing calculator tool** — simple CLI or web form: takes vertical + scope inputs, outputs recommended package tier and price range. Useful for quick quoting during calls.
+29. ~~**Build a pricing calculator tool**~~ — DONE 2026-03-18. See github.com/zerofluffnobs/pricing-calculator + Projects/pricing-calculator.md. Pure Python CLI, no deps, covers all 3 services + retainer upsells, copy-paste pitch output.
 30. **Create a testimonial / social proof capture system** — email template to request a testimonial after project delivery, LinkedIn recommendation request, how to display on portfolio site.
 
 ## Creator Action Items (Async)
