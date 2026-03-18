@@ -307,3 +307,14 @@ WARM  71/100  City Gym         — Missed membership enquiries after hours
 2026-03-18T16:04:00+00:00 — Heartbeat complete
 2026-03-18T16:30:00+00:00 — Heartbeat starting
 2026-03-18 | Generated lead-scoring-agent portfolio screenshot (960x660 dashboard: HOT/WARM/COLD tiers, score circles, 4-dim bars, openers) → Assets/lead-scoring-agent-screenshot.png
+Done. Task #16 complete.
+
+**What I did:** Generated `Assets/lead-scoring-agent-screenshot.png` — a 960×660 dark-theme dashboard showing:
+- Pipeline summary bar (3 HOT / 2 WARM / 1 COLD, avg score, top lead)
+- 6 ranked lead rows with tier badge, score circle, pain-point tag, 4-dimension bar charts (pain/budget/urgency/fit), and recommended opener text
+- GitHub watermark footer
+
+All 3 portfolio pieces now have visual assets. Up next: **#17** (scout next Superhuman pipeline gap) or **#18** (case study post on the lead-scoring-agent).
+2026-03-18T16:32:15+00:00 — Heartbeat complete
+2026-03-18T17:00:00+00:00 — Heartbeat starting
+2026-03-18 | Scouted next Superhuman pipeline gap: Linux Adaptation (Phase 1). Created linux-adaptation thread + plan-linux-adaptation.md deliverable in brain vault. Two platform guards needed (collectors.py, routing.py) before Tier 1 container runs on Fedora.

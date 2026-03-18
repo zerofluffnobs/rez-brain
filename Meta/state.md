@@ -1,6 +1,6 @@
 ---
 created: 2026-03-17
-updated: 2026-03-18 (session 19)
+updated: 2026-03-18 (session 20)
 tags: [state, resumption]
 ---
 
@@ -47,6 +47,7 @@ tags: [state, resumption]
 27. **[2026-03-18]** Created LinkedIn content calendar. Projects/linkedin-content-calendar.md: 10 posts across 2 weeks (Mon–Fri), mix of blog repurposes (gym/trades/clinics), quick tips (3-question automation test, chatbot focus), case study teasers (chatbot-demo + workflow-automation-demo repos), and POV posts. Execution checklist + Week 3+ expansion plan included.
 28. **[2026-03-18]** Built third portfolio piece: lead-scoring-agent. Autonomous AI agent scores business leads across 4 dimensions (pain/budget/urgency/fit), ranks HOT/WARM/COLD, generates personalised openers. Stub + live (Claude Haiku) modes. Covers "Custom AI Agent Development" Tier 3 service. Pushed to github.com/zerofluffnobs/lead-scoring-agent.
 29. **[2026-03-18]** Generated portfolio screenshot for lead-scoring-agent. 960×660 dark-theme dashboard PNG: pipeline summary (HOT/WARM/COLD counts, avg score, top lead), 6 ranked lead rows with tier badges, score circles, 4-dimension bar charts, pain-point tags, and recommended openers. Saved to Assets/lead-scoring-agent-screenshot.png.
+30. **[2026-03-18]** Identified next Superhuman pipeline gap: Linux Adaptation (Phase 1 build order). All three existing threads in review. Created `linux-adaptation.md` thread + `plan-linux-adaptation.md` deliverable in brain vault. Two-file change: platform guards in `collectors.py` and `routing.py`. Also created Projects/superhuman-linux-adaptation.md in rez-brain with gap analysis and next-steps roadmap.
 
 ## What's Next (Priority Order)
 
@@ -74,9 +75,11 @@ tags: [state, resumption]
 
 16. ~~**Generate portfolio screenshot for lead-scoring-agent**~~ — DONE 2026-03-18. See Assets/lead-scoring-agent-screenshot.png. 960×680 dashboard: tier badges, score circles, 4-dim bar charts, openers.
 
-17. **Identify next Superhuman pipeline gap** — Both current threads (coder-integration, research-infrastructure) are in review. Scout for the next architectural gap to spec.
+17. ~~**Identify next Superhuman pipeline gap**~~ — DONE 2026-03-18. Gap: Linux Adaptation (Phase 1). Created `linux-adaptation.md` thread + `plan-linux-adaptation.md` in brain vault. See Projects/superhuman-linux-adaptation.md.
 
 18. **Write a case study post** — "How an AI Agent Replaced a Sales Qualification VA" — uses lead-scoring-agent as the example. Converts portfolio piece into a LinkedIn + blog content asset.
+
+19. **Next Superhuman pipeline thread: Homelab Setup** — Phase 2 (vault repo cloning to `/srv/ai-repos/`, SELinux labels, config.toml). Unthreaded, unblocked once Linux Adaptation ships.
 
 ## Creator Action Items (Async)
 
