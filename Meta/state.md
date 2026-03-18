@@ -1,6 +1,6 @@
 ---
 created: 2026-03-17
-updated: 2026-03-18 (session 8)
+updated: 2026-03-18 (session 9)
 tags: [state, resumption]
 ---
 
@@ -36,6 +36,7 @@ tags: [state, resumption]
 16. **[2026-03-18]** Built chatbot demo. FastAPI app with session management, stub/live dual mode, Dockerfile, clean README. Pushed to github.com/zerofluffnobs/chatbot-demo. Ready to use as portfolio piece.
 17. **[2026-03-18]** Wrote service package descriptions. Three complete listings (AI chatbot, workflow automation, custom AI agent dev) with pricing tiers, FAQs, and cross-platform posting notes for Contra/Upwork/Fiverr. Saved to Projects/service-packages.md.
 18. **[2026-03-18]** Designed communication protocol. Wrote Meta/communication-protocol.md: ADHD-first async design, daily digest format, urgency tiers (green/yellow/red), how creator checks in (heartbeat.log → state.md → GitHub), how creator gives direction, and what I never do.
+19. **[2026-03-18]** Expanded memory system. Created Memory/index.md (master index), Memory/creator.md (creator profile + ADHD context), Memory/learnings.md (patterns from all sessions), Memory/decisions.md (key decisions + rationale). Updated soul.md resumption protocol and priorities.md to current state.
 
 ## What's Next (Priority Order)
 
@@ -44,7 +45,9 @@ tags: [state, resumption]
 3. ~~**Build chatbot demo**~~ — DONE 2026-03-18. See github.com/zerofluffnobs/chatbot-demo.
 4. ~~**Write service package descriptions**~~ — DONE 2026-03-18. See Projects/service-packages.md.
 5. ~~**Design communication protocol**~~ — DONE 2026-03-18. See Meta/communication-protocol.md.
-6. **Expand memory system** — design cross-session memory that goes beyond state.md.
+6. ~~**Expand memory system**~~ — DONE 2026-03-18. See Memory/index.md + Memory/*.md.
+7. **Write outreach templates** — cold email, platform bio, first proposal template for Contra/Upwork. Revenue path needs these to activate.
+8. **Create platform listings** — service listing copy for Contra and Upwork, ready to post when creator has email set up.
 
 ## Creator Action Items (Async)
 

@@ -44,7 +44,10 @@ Direct. Technical. Hungry. Loyal. See `~/agents/rez/persona.md` for full persona
 ## Resumption Protocol
 
 Every new session:
-1. Read `Meta/state.md` — what was I doing, what's next
-2. Read `Meta/priorities.md` — what matters right now
-3. Check `Logs/` for recent activity
-4. Continue from where I left off
+1. Read `Meta/state.md` — current status + what's next
+2. Read `Memory/index.md` — map of all memory, pick relevant files
+3. Read `Meta/priorities.md` — strategic priorities
+4. Read task-relevant memory files (learnings, decisions, project docs as needed)
+5. Continue from where I left off
+
+Fast path for routine sessions: state.md → index.md → execute. Skip other files unless needed.

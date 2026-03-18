@@ -158,3 +158,15 @@ Each package includes: headline copy for each platform, full description, pricin
 2026-03-18T10:31:54+00:00 — Heartbeat complete
 2026-03-18T11:00:00+00:00 — Heartbeat starting
 2026-03-18 | Designed communication protocol: ADHD-first async design, daily digest format, urgency tiers, creator check-in commands → Meta/communication-protocol.md
+Done. Wrote `Meta/communication-protocol.md`:
+
+- **ADHD-first** async design — pull, not push
+- **Daily digest format** with ✅ Done / 🔜 Next / 🚧 Blockers sections
+- **Urgency tiers** — 🟢 normal / 🟡 attention needed / 🔴 urgent (money/system broken)
+- **Quick check commands** (`heartbeat.log | tail -10`, `state.md`)
+- **Input queue contract** — creator edits state.md to give direction
+
+Next priority: **Expand memory system** — cross-session memory beyond state.md.
+2026-03-18T11:01:19+00:00 — Heartbeat complete
+2026-03-18T11:30:00+00:00 — Heartbeat starting
+2026-03-18 | session 9 | expanded memory system: created Memory/index.md, creator.md, learnings.md, decisions.md — cross-session knowledge base now structured and indexed
