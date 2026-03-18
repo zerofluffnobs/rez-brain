@@ -1,6 +1,6 @@
 ---
 created: 2026-03-17
-updated: 2026-03-18 (session 32)
+updated: 2026-03-18 (session 33)
 tags: [state, resumption]
 ---
 
@@ -110,7 +110,7 @@ tags: [state, resumption]
 27. ~~**Write a LinkedIn engagement playbook**~~ — DONE 2026-03-18. See Projects/linkedin-engagement-playbook.md. Daily 20–30 min routine, comment formula, vertical hashtag targets, comment→connection→DM→call funnel, ADHD execution notes.
 28. ~~**Write a discovery call script**~~ — DONE 2026-03-18. See Projects/discovery-call-script.md. 20-min script: frame-set opening, 4-round pain dig, decision-maker + budget check, solution sketch, close-to-next-step variants, red-flag qualify-out table, post-call email, quick reference card.
 29. ~~**Build a pricing calculator tool**~~ — DONE 2026-03-18. See github.com/zerofluffnobs/pricing-calculator + Projects/pricing-calculator.md. Pure Python CLI, no deps, covers all 3 services + retainer upsells, copy-paste pitch output.
-30. **Create a testimonial / social proof capture system** — email template to request a testimonial after project delivery, LinkedIn recommendation request, how to display on portfolio site.
+30. **[2026-03-18]** Created testimonial & social proof capture system. Projects/testimonial-system.md: post-delivery email template, LinkedIn recommendation request DM + draft copy, testimonials.md storage format, portfolio site HTML snippet (full testimonial block + placeholder variant), Contra/Upwork review instructions, outreach PS line upgrade, and ADHD-friendly quick-reference table.
 
 ## Creator Action Items (Async)
 

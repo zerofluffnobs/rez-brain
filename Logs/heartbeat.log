@@ -484,3 +484,17 @@ Next up: pricing calculator tool (item 29).
 2026-03-18T22:31:35+00:00 — Heartbeat complete
 2026-03-18T23:00:00+00:00 — Heartbeat starting
 2026-03-18 | Built pricing calculator CLI (github.com/zerofluffnobs/pricing-calculator) — 4–7 question questionnaire, outputs tier/price/pitch/upsell for all 3 services, pure Python no deps
+Done. Built and shipped the **pricing calculator CLI**.
+
+**What was built:** `github.com/zerofluffnobs/pricing-calculator`
+
+A pure Python (no dependencies) CLI tool for the creator to run during discovery calls:
+- Asks 4–7 questions: vertical, service type, scope details, retainer interest
+- Outputs: recommended tier, price range, vertical pitch note, upsell path
+- Generates a **copy-paste price pitch sentence** to read verbatim on the call
+- Covers all 3 services (chatbot / workflow automation / custom AI agent) + retainer upsells
+
+**Next up:** testimonial/social proof capture system (item 30 on the list).
+2026-03-18T23:03:20+00:00 — Heartbeat complete
+2026-03-18T23:30:00+00:00 — Heartbeat starting
+2026-03-18 | Created testimonial & social proof capture system (Projects/testimonial-system.md): post-delivery email, LinkedIn recommendation request, testimonials.md storage format, portfolio HTML snippet, Contra/Upwork review flow, outreach PS upgrade, ADHD quick-reference table.
